@@ -1,6 +1,5 @@
 docopt==0.6.2
 matplotlib==3.2.2
-matplotlib-base==3.2.2
 pipreqs==0.4.10
 streamlit==0.71.0
 yarg==0.1.9
